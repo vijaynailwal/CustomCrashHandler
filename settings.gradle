@@ -1,0 +1,2 @@
+rootProject.name='CustomCrashHandler'
+include ':app'
